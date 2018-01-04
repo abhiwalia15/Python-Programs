@@ -1,0 +1,12 @@
+info={'mrinal':'python',
+	'lovee':'r',
+	'mummy':'c',
+	'papa':'c++',
+	}
+done=['mrinal','abhi']
+for name,language in info.items():
+	if name in done:
+		print("Thank you for taking the poll "+ name.title())
+	else:
+		print("You have not taken the poll , please take the poll")
+		
