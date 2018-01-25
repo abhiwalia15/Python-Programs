@@ -3,6 +3,6 @@ print("the original dimensions are:")
 for dimension in dimensions:
  print(dimension)
 dimensions=(124,124,314,123)
-print("the modifies dimensions are:")
+print("the modified dimensions are:")
 for dimension in dimensions:
  print(dimension)

@@ -1,0 +1,5 @@
+def hours2days(hours):
+     
+     days = 24/hours
+     hour = hours%24
+     
